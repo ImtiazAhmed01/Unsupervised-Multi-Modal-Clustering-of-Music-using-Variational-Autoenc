@@ -16,5 +16,5 @@ The goal of this project is to group similar music tracks without manual labels.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Tanisha184/Unsupervised-Multi-Modal-Clustering-of-Music-using--Variational-Autoencoders.git](https://github.com/Tanisha184/Unsupervised-Multi-Modal-Clustering-of-Music-using--Variational-Autoencoders.git)
+   git clone 
    cd Unsupervised-Multi-Modal-Clustering-of-Music-using--Variational-Autoencoders
